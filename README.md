@@ -3,9 +3,10 @@
 Estou cursando Sistemas para Internet, buscando sempre adquirir novos conhecimentos na área de desenvolvimeto.
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagomoraescosta&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="thiagomoraescosta github stats" /> 
-  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomoraescosta&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
+<div>
+<a href="https://github.com/thiagomoraescosta">
+<img loading="lazy" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagomoraescosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomoraescosta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 [![Thiago's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagomoraescosta&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
