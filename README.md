@@ -3,9 +3,9 @@
 Estou cursando Sistemas para Internet, buscando sempre adquirir novos conhecimentos na área de desenvolvimeto.
 
 
-<div>
+<div align="center">
 <a href="https://github.com/thiagomoraescosta">
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagomoraescosta&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="thiagomoraescosta github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagomoraescosta&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="thiagomoraescosta github stats" />
 <img  loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomoraescosta&layout=compact&langs_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
 </div>
 
